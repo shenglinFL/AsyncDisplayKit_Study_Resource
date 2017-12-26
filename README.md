@@ -1,5 +1,8 @@
 # AsyncDisplayKit_Study_Resource
 AsyncDisplayKit(Texture)学习资料
 
-## 文档与博客
-[AsyncDisplayKit(Texture)学习资源](./AsyncDisplayKit(Texture)%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90.md)
+## 文档与翻译文档
+[使用文档](./资料整理/使用文档.md)
+
+## 答疑博客
+[答疑博客](./资料整理/答疑博客.md)
